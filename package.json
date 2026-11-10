@@ -1,0 +1,9 @@
+{
+  "name": "y3k-lockdown-browser",
+  "version": "1.0.0",
+  "main": "main/main.js",
+  "dependencies": {
+    "electron": "^31.0.0",
+    "react": "^18.3.0"
+  }
+}
